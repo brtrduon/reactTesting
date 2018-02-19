@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { connect } from 'react';
+import { connect } from 'react-redux';
 import * as actions from '../actions';
 // we are saving every action creator in the variable 'actions'
 // '*' means everything / all
